@@ -1,2 +1,8 @@
 # Rock-Paper-Scissors
-Features Play against the computer Real-time winner calculation Score tracking system Interactive and responsive UI Smooth user experience Random computer choice generation.
+Features 
+1.Play against the computer 
+2.Real-time winner calculation 
+3.Score tracking system 
+4.Interactive and responsive UI 
+5.Smooth user experience 
+6.Random computer choice generation.
